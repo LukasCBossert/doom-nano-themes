@@ -7,7 +7,7 @@ Hence, it can work properly when using Doom Emacs.
 ## Installation
 
 First, copy the files to `~/.doom.d/themes/` or
-`~/config/doom/themes/` depending on your local setup.
+`~/.config/doom/themes/` depending on your local setup.
 
 If you are using Doom Emacs, add to your `config.el`:
 
